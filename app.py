@@ -36,4 +36,8 @@ def predict():
 if __name__ == '__main__':
 
     app.run(host="0.0.0.0", port=8080) #for deployment run
+<<<<<<< HEAD
     #app.run(host="127.0.0.1", port=8000,debug=True) # for local run
+=======
+    # app.run(host="127.0.0.1", port=8000,debug=True) # for local run
+>>>>>>> c5e2ef1 (model addeddd)
